@@ -27,7 +27,7 @@ industry and take advantage of our one stop shop with strong business solutions.
 
 JNA entertainment specialists has authorized partnerships with some of the most prestigious companies in the cable, internet and home security industries.
 
-We deal with and distribute high quality telecommunication equipment in north america and the rest of the world.
+We deal with and distribute high-quality telecommunication equipment in north america and the rest of the world.
  
 1. Exclusivity
   Gain access to top-of-the-line programs tailored to increase your margins.
@@ -47,7 +47,7 @@ We deal with and distribute high quality telecommunication equipment in north am
    JNA offers hyper-targeted marketing services to increase the scalability and the reach of your business.
    
 2. Dedicated Training
-   Our experts offer readily available training and certifications specific to each Authorized Dealership Program.
+   Our experts offer readily available training and certifications specific to each [Authorized Dealership Program](https://www.jnadealerprogram.com/blog/cable-dealer/).
    
 3. Legendary Support
    Our team is at your disposition to answer any questions or concerns. We work together to make you successful in all your endeavors.
