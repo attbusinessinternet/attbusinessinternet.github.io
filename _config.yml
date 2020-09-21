@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Docs
-description: A Jekyll theme for documentation
+title: JNA Dealer Program
+description: We Create Business Opportunities Telecommunications, Cell phones, Dialer, Dealer programs.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jna-dealer-program.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -30,7 +30,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # include: ["docs/tests/"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo.PNG"
 
 # Enable or disable the site search
 # Supports true (default) or false
