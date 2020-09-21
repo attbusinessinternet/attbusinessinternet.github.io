@@ -10,7 +10,7 @@ nav_order: 3
  
 ---
 
-![JNA Financing ](/assets/images/blog.png "JNA Financing")
+![JNA Financing ](/assets/images/blog.PNG "JNA Financing")
 
 
  
