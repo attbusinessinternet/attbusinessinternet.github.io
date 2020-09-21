@@ -56,6 +56,7 @@ See the products and features that you can sell as a JNA authorized dealer.
 
 Become a JNA Dealer & Sell Windstream Products
 See the products and features that you can sell as a JNA authorized dealer.
+
 [Why Become a HughesNet Reseller?](https://www.jnadealerprogram.com/blog/hughesnet-reseller/)
 
 [Sell Windstream Products](https://www.jnadealerprogram.com/dealer-opportunities-windstream.php){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
