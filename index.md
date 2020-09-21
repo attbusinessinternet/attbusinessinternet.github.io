@@ -25,7 +25,7 @@ industry and take advantage of our one stop shop with strong business solutions.
 
 ### See all Feature
 
-JNA entertainment specialists has authorized partnerships with some of the most prestigious companies in the [cable](https://www.cheapinternetserviceprovider-jna.com/technology/cable), [internet](https://cheapinternetserviceprovider-jna.com/) and [home security](https://www.homealarmsecurity.org/) industries.
+JNA entertainment specialists has authorized partnerships with some of the most prestigious companies in the [cable internet](https://www.cheapinternetserviceprovider-jna.com/technology/cable), [internet plans](https://cheapinternetserviceprovider-jna.com/) and [home alarm security](https://www.homealarmsecurity.org/) industries.
 
 We deal with and distribute high-quality telecommunication equipment in north america and the rest of the world.
  
