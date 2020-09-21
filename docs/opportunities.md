@@ -71,7 +71,7 @@ Products:
 1. [Vivint Alarm](https://www.jnadealerprogram.com/blog/vivint-package/)
 2. [Smart Outdoor Camera](https://www.homealarmsecurity.org/blogdetails/meet-the-smartest-outdoor-camera-on-the-market-vivint-outdoor-camera-pro)
 3. [Vivint Doorbell Camera Pro](https://www.homealarmsecurity.org/vivint-home-security/vivint-doorbell-camera-pro)
-[And More](https://www.homealarmsecurity.org/vivint-home-security)
+   [And More](https://www.homealarmsecurity.org/vivint-home-security)
 
 [Sell Vivint Smart Home Products](https://www.jnadealerprogram.com/vivint.php){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
@@ -90,10 +90,10 @@ Become a JNA Dealer & Sell Vivint Smart Home Products
 See the products and features that you can sell as a JNA authorized dealer.
 
 Featured Products
-1.[ADT Security Alarm](https://www.homealarmsecurity.org/adt-home-security/adt-emergency-alarm)
-2.[ADT Security AutomationADT Security Automation](https://www.homealarmsecurity.org/adt-home-security/adt-home-automation)
-3.[Security Cameras](https://www.homealarmsecurity.org/adt-home-security/adt-security-cameras)
-4.[ADT Security System](https://www.homealarmsecurity.org/adt-home-security/adt-security-system)
+1. [ADT Security Alarm](https://www.homealarmsecurity.org/adt-home-security/adt-emergency-alarm)
+2. [ADT Security AutomationADT Security Automation](https://www.homealarmsecurity.org/adt-home-security/adt-home-automation)
+3. [Security Cameras](https://www.homealarmsecurity.org/adt-home-security/adt-security-cameras)
+4. [ADT Security System](https://www.homealarmsecurity.org/adt-home-security/adt-security-system)
 
 [Sell ADT Smart Security](https://www.jnadealerprogram.com/dealer-opportunities-adt.php){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
