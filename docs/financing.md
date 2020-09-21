@@ -42,7 +42,7 @@ IN AS LITTLE AS 3 DAYS
 4. Inventory Loans (Loans against Inventory).
 5. [SBA Loans](https://www.jnadealerprogram.com/blog/sba-loans-for-small-business/)
 6. A/R Factoring.
-7. [Equipment Financing] (https://www.jnadealerprogram.com/blog/equipment-financing-guide/)
+7. [Equipment Financing](https://www.jnadealerprogram.com/blog/equipment-financing-guide/)
 8. Business Loans backed by Real Estate.
 
 [Get Started](https://www.jnadealerprogram.com/jna-financing.php){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
