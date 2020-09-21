@@ -37,7 +37,7 @@ IN AS LITTLE AS 3 DAYS
 ### At JNA we offer:
 
 1. [Merchant Cash Advance](https://www.jnadealerprogram.com/blog/starting-a-business-and-establishing-a-merchant-account/)
-2. Business Loans(Daily, weekly, by-weekly, by-monthly payments available).
+2. [Business Loans](https://www.jnadealerprogram.com/blog/business-loan-financial-an-legal-documents-required-by-most-lenders/)(Daily, weekly, by-weekly, by-monthly payments available).
 3. Lines Credit.
 4. Inventory Loans (Loans against Inventory).
 5. [SBA Loans](https://www.jnadealerprogram.com/blog/sba-loans-for-small-business/)
