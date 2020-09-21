@@ -75,3 +75,26 @@ Products:
 
 [Sell Vivint Smart Home Products](https://www.jnadealerprogram.com/vivint.php){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
+
+## ADT Smart Security Products
+
+Become a JNA Dealer & Sell Xfinity Products
+See the products and features that you can sell as a [Xfinity Authorized Dealer](https://www.jnadealerprogram.com/blog/become-an-authorized-dealer-sell-xfinity-products/).
+
+[Sell Xfinity Products](https://www.jnadealerprogram.com/dealer-opportunities-xfinity.php){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+
+
+## ADT Smart Security Products
+
+Become a JNA Dealer & Sell Vivint Smart Home Products
+See the products and features that you can sell as a JNA authorized dealer.
+
+Featured Products
+1.[ADT Security Alarm](https://www.homealarmsecurity.org/adt-home-security/adt-emergency-alarm)
+2.[ADT Security AutomationADT Security Automation](https://www.homealarmsecurity.org/adt-home-security/adt-home-automation)
+3.[Security Cameras](https://www.homealarmsecurity.org/adt-home-security/adt-security-cameras)
+4.[ADT Security System](https://www.homealarmsecurity.org/adt-home-security/adt-security-system)
+
+[Sell ADT Smart Security](https://www.jnadealerprogram.com/dealer-opportunities-adt.php){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+
+
