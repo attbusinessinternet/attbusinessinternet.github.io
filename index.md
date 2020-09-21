@@ -13,7 +13,7 @@ opportunities without all the fees.
 
 {: .fs-6 .fw-300 }
 
-[Get started now](https://www.jnadealerprogram.com/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  
+[Get started now](/docs/opportunities){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  
 
 ---
 
