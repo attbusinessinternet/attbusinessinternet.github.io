@@ -71,7 +71,7 @@ Products:
 1. [Vivint Alarm](https://www.jnadealerprogram.com/blog/vivint-package/)
 2. [Smart Outdoor Camera](https://www.homealarmsecurity.org/blogdetails/meet-the-smartest-outdoor-camera-on-the-market-vivint-outdoor-camera-pro)
 3. [Vivint Doorbell Camera Pro](https://www.homealarmsecurity.org/vivint-home-security/vivint-doorbell-camera-pro)
-   [And More](https://www.homealarmsecurity.org/vivint-home-security)
+[And More](https://www.homealarmsecurity.org/vivint-home-security)
 
 [Sell Vivint Smart Home Products](https://www.jnadealerprogram.com/vivint.php){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
