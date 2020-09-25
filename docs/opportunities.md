@@ -22,7 +22,7 @@ See the products and features that you can sell as a JNA authorized dealer.
 
 ## AT&T Products
 
-Become a JNA Dealer & [Sell AT&T Products](https://www.jnadealerprogram.com/blog/att-phone/) like [at&t busisness internet](https://www.cheapinternetserviceprovider-jna.com/blogdetails/att-business-intenet-faq)
+Become a JNA Dealer & [Sell AT&T Products](https://www.jnadealerprogram.com/blog/att-phone/) like [At&t Business Internet](https://www.cheapinternetserviceprovider-jna.com/blogdetails/att-business-intenet-faq)
 See the products and features that you can sell as a JNA authorized dealer.
 
 [Sell AT&T Products](https://www.jnadealerprogram.com/dealer-opportunities.php){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
