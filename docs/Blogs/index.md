@@ -5,18 +5,6 @@ has_children: true
 nav_order: 100
 ---
 
-# Tests
+## AT&T Business Insights
 
- The main documentation pages of this theme illustrate the use of many of its features, which to some extent tests their implementation. The pages linked below provide further test cases for particular features, and may be useful for regression testing when developing new features.
- 
-The default configuration does not include the test pages. To include them, *commment-out* the following line in `_config.yml`:
-
-```yaml
-, "docs/tests/"
-```
-so that it is:
-```yaml
-# , "docs/tests/"
-```
-
-(Apparently Jekyll's `include` does *not* override `exclude`  for the same folder...)
+Welcome to your digital headquarters for all things business. From a broad sense of what’s possible to line-item cybersecurity tips you can implement today, we’ll cover what it takes to power your business. And provide insights that can help it thrive.
