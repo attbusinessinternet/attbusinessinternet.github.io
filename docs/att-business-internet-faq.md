@@ -53,7 +53,7 @@ AT&T will provide the necessary customer premise equipment (CPE) to use the serv
 
 ## Is there an on-line portal to manage my account? 
 
-Customers can access [AT&T Business Direct](https://www.businessdirect.att.com/portal/index.jsp) to view/manage their service, or pay their monthly invoice.
+Customers can access [AT&T Business Direct](/docs/att-business-plans/) to view/manage their service, or pay their monthly invoice.
 
 
  
