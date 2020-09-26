@@ -28,7 +28,7 @@ bundled with AT&T Internet for Business
 Get up to $250 in reward cards when bundled
 
 
-[Get started now](/docs/opportunities){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  
+   
 
 
 
@@ -44,7 +44,7 @@ Plus taxes. $24.99 for 12 mos w/ 24-mon. agmt after Auto Bill Pay Discount for b
 + HD access at no extra charge*
 
 
-[Get started now](/docs/opportunities){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  
+   
 
 
 ---
