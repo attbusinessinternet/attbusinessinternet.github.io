@@ -16,7 +16,7 @@ $50/mo. without voice
 
 
 
-# AT&T Phone for Business
+## AT&T Phone for Business
 
 Unlimited calling across the U.S., Mexico, and Canada combined with voicemail and over 25 calling features.
 
@@ -28,13 +28,9 @@ bundled with AT&T Internet for Business
 Get up to $250 in reward cards when bundled
 
 
-   
 
 
-
-
-# DIRECTV for Business
-
+## DIRECTV for Business
 
 Keeps employees and customers happy with a combination of sports, news and entertainment.
 
