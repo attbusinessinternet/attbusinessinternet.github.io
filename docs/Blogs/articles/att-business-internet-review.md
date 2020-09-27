@@ -13,15 +13,16 @@ If your workplace needs performance and speed, AT&T Business more than delivers�
 
 Telecom giant AT&T has an internet, phone, and TV plan for almost every business, if not necessarily every budget. Even its lower-tier business plans are on the pricey side, and AT&T’s deluxe fiber-optic internet package could set you back as much as $500 a month.
 
-#### Pros
 
-*   **No contracts on fiber plans**
-*   **Unlimited cloud storage and data usage**
 
-#### Cons
+|*Pros*|*Cons*| 
+|:------------- |:-------------|
+|No contracts on fiber plans| Expensive plans | 
+|No contracts on fiber plans| Limited fiber network|  
+|No contracts on fiber plans|           | 
+|No contracts on fiber plans|       | 
 
-*   **Expensive plans**
-*   **Limited fiber network**
+
 
 AT&T Business promotions and deals
 ----------------------------------
@@ -31,30 +32,11 @@ AT&T Business offers a two-year price guarantee on select internet service plans
 AT&T Business plans and pricing
 -------------------------------
 
-Internet
-
-TV
-
-Phone
-
-Bundles
-
-$60–$300/mo.  
-25 Mbps–1 Gbps  
-DSL and fiber plans
-
-$29.99–$89.99/mo.  
-90–155+ channels  
-DIRECTV packages
-
-$60–$75/mo.  
-Local and long-distance calling  
-Digital VoIP phone
-
-$70–$135/mo.  
-Up to 155 channels and 1 Gbps  
-Double and triple bundles
-
+| Internet| TV| Phone|Bundles|
+|:------------- |:-------------|:-----|:-----|
+| $60–$300/mo.     | $29.99–$89.99/mo.| $60–$75/mo. |$70–$135/mo.|
+| 25 Mbps–1 Gbps    | 90–155+ channels|   Local and long-distance calling |Up to 155 channels and 1 Gbps|
+| DSL and fiber plans| DIRECTV packages | Digital VoIP phone |Double and triple bundles|
 
 
 _Data effective 06/09/2020. Offers and availability may vary by location and are subject to change.0_
@@ -63,18 +45,10 @@ AT&T Business uses several delivery models to get the job done. Its internet ser
 
 ### AT&T Business Internet
 
-**Our Pick**
+| **Our Pick**|  Price| Standout Features|
+|:------------- |:-------------:|:-----|
+| **Business Fiber 100**      | $140/mo. | Download speeds up to 100 Mbps |
 
-Price
-
-Standout Features
- 
-
-**Business Fiber 100**
-
-$140/mo.
-
-Download speeds up to100 Mbps
 
 
 _Data effective 06/09/2020. Offers and availability may vary by location and are subject to change._
@@ -87,17 +61,9 @@ For those outside of fiber areas, we’d recommend the Internet 100 DSL plan. It
 
 ### AT&T Business TV
 
-**Our Pick**
-
-Price
-
-Standout Features
-
-**Commercial XTRA Pack**
-
-$89.99/mo.
-
-DIRECTV package w/ NFL SUNDAY TICKET
+| **Our Pick**|  Price| Standout Features|
+|:------------- |:-------------:|:-----|
+| **Commercial XTRA Pack**      | $89.99/mo. | DIRECTV package w/ NFL SUNDAY TICKET |
 
 
 _Data effective 6/9/2020. Offers and availability may vary by location and are subject to change._
@@ -108,18 +74,11 @@ If you’re operating a sports bar/restaurant, we’d recommend the Commercial X
 
 ### AT&T Business Phone
 
-**Our Pick**
-
-Price
-
-Standout Features
+| **Our Pick**|  Price| Standout Features|
+|:------------- |:-------------:|:-----|
+| **Local Unlimited + Long Distance**      | $75/mo. | Digital VoIP phone|
 
 
-**Local Unlimited + Long Distance**
-
-$75/mo.
-
-Digital VoIP phone
 
 AT&T Business Phone service is VoIP (Voice over Internet Protocol), meaning the call travels over the internet rather than traditional phone lines—even though DSL internet and voice calls are carried simultaneously over those same phone lines. Yes, landline phone systems are complicated these days.
 
@@ -129,20 +88,11 @@ A&T also has mobile Business Wireless plans available, of course, because it�
 
 ### AT&T Business Bundles
 
-**Our Pick**
 
-Price
-
-Standout Features
-
-
-**Internet 100 + AT&T Phone**
-
-$135/mo.
-
-100 Mbps download speed;  
-  
-Unlimited calling in US, Canada, and Mexico
+| **Our Pick**|  Price| Standout Features|
+|:------------- |:-------------:|:-----|
+| **Internet 100 + AT&T Phone**      | $135/mo. | 100 Mbps download speed Unlimited calling in US, Canada, and Mexico
+|
 
 
 [View plans](/docs/att-business-plans/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
