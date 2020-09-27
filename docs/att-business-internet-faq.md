@@ -22,7 +22,7 @@ nav_order: 3
 
 This service is designed for larger sized business customers with multiple locations.  The “Enterprise” customer experience includes one contract for all sites, a consolidated invoice, and one number to call for support of all locations.
 
-## What is AT&T Internet for Business?
+## What is [AT&T Internet for Business](https://www.cheapinternetserviceprovider-jna.com/blogdetails/att-business-intenet-faq)?
 
 This service is ideal for small businesses with 1-6 locations and customers can bundle voice, video, and more
 
